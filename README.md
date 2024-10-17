@@ -7,3 +7,5 @@ Zadanie rekrutacyjne w firmie DRIT
 3.	Zmienna Y
 4.	Data obliczeń
 
+C:\Users\TOMASZO\Source\Repos\Rekrutacja
+
